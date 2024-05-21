@@ -1,4 +1,5 @@
-# emotify
+# Emotify
+In progress...
 
 ## Installing Dependencies
 This project uses a `requirements.txt` file to specify the Python packages needed to run the code. To install these dependencies, follow these steps:
