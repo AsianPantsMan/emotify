@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 # Misc
-video_output/
+output/
+*.csv
