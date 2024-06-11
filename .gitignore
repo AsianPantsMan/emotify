@@ -164,3 +164,4 @@ cython_debug/
 # Misc
 output/
 *.csv
+fer_test/webcam_images/

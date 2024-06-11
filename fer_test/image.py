@@ -4,7 +4,7 @@ from pprint import pprint
 
 try:
     # Load image
-    img_path = "fer_test/test_images/ye.jpg"
+    img_path = "fer_test/test_images/lebomboclat.jpg"
     img = cv2.imread(img_path)
 
     # Process image and detect emotions
